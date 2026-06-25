@@ -69,7 +69,7 @@ Using regional hourly energy generation and demand data, this project evaluates 
 
 **Utility Power Source Breakdown**
 *Utility-level breakdown of power source mix.*
-![Utility Power Source Breakdown](Dashboard%20Screenshots/Utitlity_Power_Source_Breakdown.png)
+![Utility Power Source Breakdown](Dashboard%20Screenshots/Utility_Power_Source_Breakdown.png)
 
 ---
 
